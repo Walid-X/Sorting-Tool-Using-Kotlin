@@ -13,10 +13,10 @@ This Kotlin project is a versatile sorting tool that allows users to sort data o
 - Supports both numbers and strings.
 
 **Usage:**
-1-Run the program.
-2-Choose the data type (Numbers or Strings) you want to sort.
-3-Input the data points to be sorted.
-4-The program will display both the unsorted and sorted versions of the data.
+- Run the program.
+- Choose the data type (Numbers or Strings) you want to sort.
+- Input the data points to be sorted.
+- The program will display both the unsorted and sorted versions of the data.
 
 # Contributions, bug reports, and feature requests are welcome! Feel free to contribute to this project or provide feedback to make it even more useful.
 
