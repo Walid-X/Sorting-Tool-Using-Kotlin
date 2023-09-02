@@ -21,5 +21,4 @@ This Kotlin project is a versatile sorting tool that allows users to sort data o
 # Contributions, bug reports, and feature requests are welcome! Feel free to contribute to this project or provide feedback to make it even more useful.
 
 # Note:
-
-# The code includes comments to explain its functionality and provide context. It also includes a fun message at the end: "Some mistakes get made, that's the moral of the story."
+The code includes comments to explain its functionality and provide context. It also includes a fun message at the end: "Some mistakes get made, that's the moral of the story."
