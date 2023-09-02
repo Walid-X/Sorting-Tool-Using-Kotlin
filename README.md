@@ -1,10 +1,10 @@
 # Kotlin Sorting Tool
 
-# Description:
+**Description:**
 
 This Kotlin project is a versatile sorting tool that allows users to sort data of different types, including numbers and strings, using various sorting methods. It provides a simple command-line interface for sorting and displaying sorted data.
 
-# Features:
+**Features:**
 
 - Sort numerical data (integers) in ascending order.
 - Sort strings in lexicographic (alphabetical) order.
@@ -12,7 +12,7 @@ This Kotlin project is a versatile sorting tool that allows users to sort data o
 - Dynamic data input: Users can add multiple data points for sorting.
 - Supports both numbers and strings.
 
-# Usage:
+**Usage:**
 1-Run the program.
 2-Choose the data type (Numbers or Strings) you want to sort.
 3-Input the data points to be sorted.
